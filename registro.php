@@ -57,7 +57,7 @@
             </div>
 
             <!-- Cadastrar-se ---->
-            <p class="cadastrar text-center mt-25">Já tem uma conta? <a href="login.php" class="text-p">Faça o login</a></p>
+            <p class="cadastrar text-center mt-25">Já tem uma conta? <a href="login" class="text-p">Faça o login</a></p>
 
         </div>
     </div>
