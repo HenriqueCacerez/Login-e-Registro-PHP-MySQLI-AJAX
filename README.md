@@ -14,7 +14,7 @@ Validações do formulário "Registro.php":<br><br>
 -> A senha precisa ter 5 ou mais caracteres;<br>
 -> A senha precisa ser igual a da confirmação;<br><br>
 
-Dados de Login:<br><br>
+Dados de Login:<br>
 
 Email: user@github.com<br>
 Senha: adm123<br>
