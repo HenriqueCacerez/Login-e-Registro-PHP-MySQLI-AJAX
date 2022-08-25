@@ -1,0 +1,112 @@
+* {
+    font-family: Arial, Helvetica, Tahoma, Verdana;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.mt-25 {
+    margin-top: 25px;
+}
+
+.mb-25 {
+    margin-bottom: 25px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+.text-p {
+    font-size: 15px;
+}
+
+.img-perfil {
+    padding-top: 10px;
+    width: 170px;
+    border-radius: 100%;
+}
+
+.btn-danger {
+    background-color: red;
+    color: white;
+    padding: 8px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.center {
+    margin: auto;
+    display: block;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.box {
+    padding: 20px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    width: 450px;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+.box h1{
+    text-align: center;
+}
+
+.box hr{
+    margin-bottom: 20px;
+}
+
+.form-group input {
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 12px;
+    width: 100%;
+    height: 35px;
+}
+
+.form-footer{
+    display: flex;
+    justify-content: center;
+}
+
+.form-footer .btn-w100 {
+    margin-top: 10px;
+    width: 100%;
+    height: 35px;
+    font-size: 16px;
+}
+
+.termos-uso {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.alert {
+    padding-top: 12px;
+    text-align: center;
+    color: white;
+    height: 30px;
+    margin-bottom: 25px;
+}
+
+.error {
+    background-color: red;
+}
+
+.success {
+    background-color: green;
+}
+
+.d-none {
+    display: none;
+}

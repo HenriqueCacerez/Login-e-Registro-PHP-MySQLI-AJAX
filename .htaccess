@@ -1,0 +1,13 @@
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+# Bloqueia a listagem de diretórios.
+Options All -Indexes
+
+# Mensagem de erro personalizada.
+ErrorDocument 403 "ERRO 403"
+ErrorDocument 404 "ERRO 404"
+
