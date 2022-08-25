@@ -17,4 +17,4 @@ Validações do formulário "Registro.php":<br><br>
 Dados de Login:<br><br>
 
 Email: user@github.com<br>
--> Senha: adm123<br>
+Senha: adm123<br>
