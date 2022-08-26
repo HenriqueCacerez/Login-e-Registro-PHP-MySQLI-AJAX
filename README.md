@@ -3,6 +3,10 @@
 Olá! Este é um projeto de Login e Registro de usuários.<br>
 Você é livre para utilizar este projeto da maneira que desejar.
 
+
+![Tela de login](https://user-images.githubusercontent.com/110671999/186995027-51f5556c-86bf-4856-9477-95d320a708d2.png)
+
+
 | Validação do formulário em JavaScript e PHP;<br>
 | Criptografia da senha do usuário em HASH;<br><br>
 
